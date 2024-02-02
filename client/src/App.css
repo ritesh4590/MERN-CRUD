@@ -1,0 +1,45 @@
+body {
+  margin: 0 auto;
+}
+
+.page-container {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.addBtn {
+  float: right;
+  margin-bottom: 20px;
+}
+.home-loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.key-action {
+  display: flex;
+  justify-content: space-around;
+}
+.key-action p {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-around;
+}
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.adduser-container {
+  border: 1px solid rgb(168, 166, 166);
+  padding: 70px;
+  border-radius: 10px;
+}
+.adduser-container h1 {
+  text-align: center;
+}
+.btn-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
